@@ -1,0 +1,10 @@
+#holst {
+    display: block;
+    /* width: 608px;
+    height: 608px; */
+    margin: 0 auto;
+}
+
+.d{
+    overflow-y: hidden;
+}
